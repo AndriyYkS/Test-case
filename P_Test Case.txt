@@ -1,0 +1,111 @@
+
+ID: 001
+Title: Search for "prowly" on a page google.com
+Description: User should be able to successfully found News about the word "prowly"
+Precondition: Any web browser is installed on computer (Chrome, Safari, Firefox, Internet Explorer)
+Assumption: a supported browser is being used.
+Test Steps:
+   1. Start web browser
+   2. In the browser address box, type google.com
+   3. Enter the text 'prowly' in the search text box
+   4. Click the 'Google Search' button
+   5. On the search results page, select the tab "News" located on top.
+
+Expected results: On clicking the "News", it should redirect user to search results in the form of news headlines.
+Actual results:
+
+
+
+ID: 002
+Title: Search for "prowly" on a page google.com
+Description: User should be able to successfully found News about the word "prowly"
+Precondition: Any web browser is installed on computer (Chrome, Safari, Firefox, Internet Explorer)
+Assumption: a supported browser is being used.
+Test Steps:
+   1. Start web browser
+   2. In the browser address box, type google.com
+   3. Enter the text 'prowly' in the search text box
+   4. Click the 'Google Search' button
+   5. On the search results page, select the tab "Images" located on top.
+
+Expected results: On clicking the "Images", it should redirect user to search results as a set of images
+Actual results:
+
+
+
+ID: 003
+Title: Search for "prowly" on a page google.com
+Description: User should be able to successfully found News about the word "prowly"
+Precondition: Any web browser is installed on computer (Chrome, Safari, Firefox, Internet Explorer)
+Assumption: a supported browser is being used.
+Test Steps:
+   1. Start web browser
+   2. In the browser address box, type google.com
+   3. Enter the text 'prowly' in the search text box
+   4. Click the 'Google Search' button
+   5. On the search results page, select the tab "Maps" located on top.
+
+Expected results:On clicking the "Maps", it should redirect user to search results in the form of a map.
+Actual results:
+
+
+
+-----------------------------------------------------------
+
+
+
+ID: 004
+Title: Search for "prowly" on a page google.com with date filtering
+Description: User should be able to successfully found search results for a given time period.
+Precondition: Any web browser is installed on computer (Chrome, Safari, Firefox, Internet Explorer)
+Assumption: a supported browser is being used.
+Test Steps:
+   1. Start web browser
+   2. In the browser address box, type google.com
+   3. Enter the text 'prowly' in the search text box
+   4. Click the 'Google Search' button
+   5. On the search results page, select the tab "Tools" located on top.
+   6. Click 'Any time'in the buttons that appear at the top of the page.
+   7. From the drop-down list, select 'Past 24 hours'
+
+Expected results: On clicking the "Past 24 hours", it should redirect user to search results which appeared only in the last 24 hours
+Actual results: 
+
+
+
+ID: 005
+Title: Search for "prowly" on a page google.com with date filtering
+Description: User should be able to successfully found search results for a given time period.
+Precondition: Any web browser is installed on computer (Chrome, Safari, Firefox, Internet Explorer)
+Assumption: a supported browser is being used.
+Test Steps:
+   1. start web browser
+   2. in the browser address box, type google.com
+   3. Enter the text 'prowly' in the search text box
+   4. Click the 'Google Search' button
+   5. On the search results page, select the tab "Tools" located on top.
+   6. Click 'Any time'in the buttons that appear at the top of the page.
+   7. From the drop-down list, select 'Past year'
+
+Expected results: On clicking the "Past 24 hours", it should redirect user to search results which appeared in the last year.
+Actual results: 
+
+
+
+Title: Search for "prowly" on a page google.com with date filtering
+Description: User should be able to successfully found search results for a given time period.
+Precondition: Any web browser is installed on computer (Chrome, Safari, Firefox, Internet Explorer)
+Assumption: a supported browser is being used.
+Test Steps:
+   1. start web browser
+   2. in the browser address box, type google.com
+   3. Enter the text 'prowly' in the search text box
+   4. Click the 'Google Search' button
+   5. On the search results page, select the tab "Tools" located on top.
+   6. Click 'Any time'in the buttons that appear at the top of the page.
+   7. From the drop-down list, select 'Custom range...'
+   8. In the new window, select July 1 and July 26 on the calendar by clicking on these dates
+   9. Сlick the 'Go' button
+
+Expected results: After selecting the date interval it should redirect user to search results which appeared during the selected time.
+Actual results: 
