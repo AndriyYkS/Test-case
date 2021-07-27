@@ -20,7 +20,7 @@ Pass/Fail:
 
 ID: 002
 Title: Search for "prowly" on a page google.com filtered by сontent category
-Description: User should be able to successfully found News about the word "prowly"
+Description: User should be able to successfully found Images about the word "prowly"
 Precondition: Any web browser is installed on computer (Chrome, Safari, Firefox, Internet Explorer)
 Assumption: A supported browser is being used.
 
@@ -39,7 +39,7 @@ Pass/Fail:
 
 ID: 003
 Title: Search for "prowly" on a page google.com filtered by сontent category
-Description: User should be able to successfully found News about the word "prowly"
+Description: User should be able to successfully find the map by keyword "prowly" 
 Precondition: Any web browser is installed on computer (Chrome, Safari, Firefox, Internet Explorer)
 Assumption: A supported browser is being used.
 
