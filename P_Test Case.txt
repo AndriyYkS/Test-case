@@ -1,4 +1,4 @@
-
+A) Wyszukiwanie słowa "prowly" na stronie google.com z filtrowaniem według kategorii treści
 ID: 001
 Title: Search for "prowly" on a page google.com filtered by сontent category
 Description: User should be able to successfully found News about the word "prowly"
@@ -57,7 +57,7 @@ Pass/Fail:
 
 
 -----------------------------------------------------------
-
+B) Wyszukiwanie słowa "prowly" na stronie google.com z filtrowanie po dacie
 
 
 ID: 004
