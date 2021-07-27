@@ -1,9 +1,10 @@
 
 ID: 001
-Title: Search for "prowly" on a page google.com
+Title: Search for "prowly" on a page google.com filtered by сontent category
 Description: User should be able to successfully found News about the word "prowly"
 Precondition: Any web browser is installed on computer (Chrome, Safari, Firefox, Internet Explorer)
 Assumption: A supported browser is being used.
+
 Test Steps:
    1. Start web browser
    2. In the browser address box, type google.com
@@ -18,10 +19,11 @@ Pass/Fail:
 
 
 ID: 002
-Title: Search for "prowly" on a page google.com
+Title: Search for "prowly" on a page google.com filtered by сontent category
 Description: User should be able to successfully found News about the word "prowly"
 Precondition: Any web browser is installed on computer (Chrome, Safari, Firefox, Internet Explorer)
 Assumption: A supported browser is being used.
+
 Test Steps:
    1. Start web browser
    2. In the browser address box, type google.com
@@ -36,10 +38,11 @@ Pass/Fail:
 
 
 ID: 003
-Title: Search for "prowly" on a page google.com
+Title: Search for "prowly" on a page google.com filtered by сontent category
 Description: User should be able to successfully found News about the word "prowly"
 Precondition: Any web browser is installed on computer (Chrome, Safari, Firefox, Internet Explorer)
 Assumption: A supported browser is being used.
+
 Test Steps:
    1. Start web browser
    2. In the browser address box, type google.com
@@ -62,6 +65,7 @@ Title: Search for "prowly" on a page google.com with date filtering
 Description: User should be able to successfully found search results for a given time period.
 Precondition: Any web browser is installed on computer (Chrome, Safari, Firefox, Internet Explorer)
 Assumption: A supported browser is being used.
+
 Test Steps:
    1. Start web browser
    2. In the browser address box, type google.com
@@ -76,11 +80,13 @@ Actual results:
 Pass/Fail:
 
 
+
 ID: 005
 Title: Search for "prowly" on a page google.com with date filtering
 Description: User should be able to successfully found search results for a given time period.
 Precondition: Any web browser is installed on computer (Chrome, Safari, Firefox, Internet Explorer)
 Assumption: A supported browser is being used.
+
 Test Steps:
    1. Start web browser
    2. In the browser address box, type google.com
@@ -95,11 +101,13 @@ Actual results:
 Pass/Fail:
 
 
+
 ID: 006
 Title: Search for "prowly" on a page google.com with date filtering
 Description: User should be able to successfully found search results for a given time period.
 Precondition: Any web browser is installed on computer (Chrome, Safari, Firefox, Internet Explorer)
 Assumption: a supported browser is being used.
+
 Test Steps:
    1. Start web browser
    2. In the browser address box, type google.com
@@ -114,6 +122,9 @@ Test Steps:
 Expected results: After selecting the date interval it should redirect user to search results which appeared during the selected time.
 Actual results: 
 Pass/Fail:
+
+
+
 
 
 
