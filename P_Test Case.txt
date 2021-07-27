@@ -7,7 +7,7 @@ Assumption: A supported browser is being used.
 
 Test Steps:
    1. Start web browser
-   2. In the browser address box, type google.com
+   2. In the browser address box, type "google.com"
    3. Enter the text "prowly" in the search text box
    4. Click the "Google Search" button
    5. On the search results page, select the tab "News" located on top.
@@ -26,7 +26,7 @@ Assumption: A supported browser is being used.
 
 Test Steps:
    1. Start web browser
-   2. In the browser address box, type google.com
+   2. In the browser address box, type "google.com"
    3. Enter the text "prowly" in the search text box
    4. Click the "Google Search" button
    5. On the search results page, select the tab "Images" located on top.
@@ -45,7 +45,7 @@ Assumption: A supported browser is being used.
 
 Test Steps:
    1. Start web browser
-   2. In the browser address box, type google.com
+   2. In the browser address box, type "google.com"
    3. Enter the text "prowly" in the search text box
    4. Click the "Google Search" button
    5. On the search results page, select the tab "Maps" located on top.
@@ -68,14 +68,14 @@ Assumption: A supported browser is being used.
 
 Test Steps:
    1. Start web browser
-   2. In the browser address box, type google.com
+   2. In the browser address box, type "google.com"
    3. Enter the text "prowly" in the search text box
    4. Click the "Google Search" button
    5. On the search results page, select the tab "Tools" located on top.
    6. Click "Any time" in the buttons that appear at the top of the page.
    7. From the drop-down list, select "Past 24 hours"
 
-Expected results: On clicking the "Past 24 hours", it should redirect user to search results which appeared only in the last 24 hours
+Expected results: On clicking the "Past 24 hours", it should redirect user to search results which appeared only in the last 24 hours.
 Actual results: 
 Pass/Fail:
 
@@ -89,7 +89,7 @@ Assumption: A supported browser is being used.
 
 Test Steps:
    1. Start web browser
-   2. In the browser address box, type google.com
+   2. In the browser address box, type "google.com"
    3. Enter the text "prowly" in the search text box
    4. Click the "Google Search" button
    5. On the search results page, select the tab "Tools" located on top.
@@ -106,11 +106,11 @@ ID: 006
 Title: Search for "prowly" on a page google.com with date filtering
 Description: User should be able to successfully found search results for a given time period.
 Precondition: Any web browser is installed on computer (Chrome, Safari, Firefox, Internet Explorer)
-Assumption: a supported browser is being used.
+Assumption: A supported browser is being used.
 
 Test Steps:
    1. Start web browser
-   2. In the browser address box, type google.com
+   2. In the browser address box, type "google.com"
    3. Enter the text "prowly" in the search text box
    4. Click the "Google Search" button
    5. On the search results page, select the tab "Tools" located on top.
