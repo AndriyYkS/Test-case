@@ -82,8 +82,8 @@ Description: User should be able to successfully found search results for a give
 Precondition: Any web browser is installed on computer (Chrome, Safari, Firefox, Internet Explorer)
 Assumption: A supported browser is being used.
 Test Steps:
-   1. start web browser
-   2. in the browser address box, type google.com
+   1. Start web browser
+   2. In the browser address box, type google.com
    3. Enter the text "prowly" in the search text box
    4. Click the "Google Search" button
    5. On the search results page, select the tab "Tools" located on top.
@@ -101,8 +101,8 @@ Description: User should be able to successfully found search results for a give
 Precondition: Any web browser is installed on computer (Chrome, Safari, Firefox, Internet Explorer)
 Assumption: a supported browser is being used.
 Test Steps:
-   1. start web browser
-   2. in the browser address box, type google.com
+   1. Start web browser
+   2. In the browser address box, type google.com
    3. Enter the text "prowly" in the search text box
    4. Click the "Google Search" button
    5. On the search results page, select the tab "Tools" located on top.
